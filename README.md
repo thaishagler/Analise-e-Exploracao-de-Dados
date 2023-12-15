@@ -1,2 +1,2 @@
 # Python
-Aqui estão alguns estudos e trabalhos em Python
+Pretendo colocar aqui estudos de bibliotecas para análise de dados.
